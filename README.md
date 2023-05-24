@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Shanni, a third-year BusEcon and CS student at UC Irvine!  
+
+I always jump at the opportunity to learn new subjects, be it technical, languages, or personal hobbies. Some of the things I'm actively learning at the moment include WebDev, Japanese, and how to do my own manicure. I'm certain this page will forever be in progess, as there are always new projects to add and skills to ~master~ **learn** (because when is anything mastered, anyways? There's always room for growth).  
+
+Stay tuned! Check out my [LinkedIn](https://www.linkedin.com/in/shanni/) or send me an [email](shanniwuu@gmail.com).
+
 
 <!--
 **shanniwu/shanniwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
